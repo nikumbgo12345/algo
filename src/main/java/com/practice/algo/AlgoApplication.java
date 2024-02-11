@@ -1,3 +1,4 @@
+/*
 package com.practice.algo;
 
 import org.springframework.boot.SpringApplication;
@@ -28,4 +29,4 @@ public class AlgoApplication {
         System.out.println("The result is " + result);
     }
 
-}
+}*/
