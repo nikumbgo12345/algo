@@ -12,7 +12,7 @@ Input: cost = [1,2,3]
 
 
 class Solution {
-    public int minCostClimbingStairs(int[] cost) {
+    public int MinCostClimbingStairs(int[] cost) {
         
             int n = cost.length;
          //   int[] counter = new int[n];
